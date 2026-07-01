@@ -1,5 +1,3 @@
-<img align="right" src="https://count.getloli.com/get/@:Aurorp1g?theme=moeboru">
-
 
 
 ## 一Programando para vivir o vivir para programar—jussepe06<img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
