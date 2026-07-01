@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:jussepe06?theme=moebooru">
 
-## Un programador trabajando duro — jussepe06 <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
+## Programando para vivir o viviendo para programar — jussepe06 <[img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" ](https://www.rtve.es/noticias/20110927/experimento-con-monos-virtuales-consigue-reescribir-obras-completas-shakespeare/464511.shtml)/> 
 
 <p align="center">
   <a href="https://github.com/jussepe06">
@@ -12,16 +12,15 @@
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
-- ¡Hola a todos! Soy Josué Gutiérrez, desde Lima, Perú 🗻
-- Actualmente soy estudiante de pregrado en Ingeniería de Sistemas y Computación en la USIL 👨‍🎓
+- ¡Hola a todos! Mi nombre es Josué Gutiérrez, soy de Lima, Perú 🗻
+- Actualmente soy estudiante de pregrado en Ingeniería de Software en la USIL 👨‍🎓
 - Me enfoco en desarrollo backend, arquitectura de software y gestión de bases de datos 👨‍💻
-- Apasionado por la tecnología, los algoritmos y miembro orgulloso de la Tuna de la USIL 🚀
-- ¡Bienvenido a mi Github! 🍧
+- Apasionado por la tecnología, los algoritmos y coordinador del grupo de investigación de ciencias de la computación de mi facultad y universidad🚀
 
 
 ### Redes Sociales 💻
-- <a href="https://www.linkedin.com/in/josue-miguel-gutierrez-ojeda-4468921b4"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：Este es mi perfil de LinkedIn 🌐
-- <a href="https://instagram.com/josuem2106"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：Este es mi Instagram personal 📷
+- <a href="[https://www.linkedin.com/in/josue-miguel-gutierrez-ojeda-4468921b4](https://www.linkedin.com/in/josue-miguel-gutierrez-ojeda-4468921b4/)"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：Este es mi perfil de LinkedIn 🌐
+- <a href="[https://instagram.com/josuem2106](https://www.instagram.com/josuem2106/)"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：Este es mi Instagram personal 📷
 
 ### Stack Tecnológico 🛠️
 ![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
@@ -43,10 +42,8 @@
 
 
 ### Proyectos Destacados <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=oracle-server-config&theme=github_dark_dimmed)](https://github.com/jussepe06/oracle-server-config)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=toulouse-dev-ios&theme=github_dark_dimmed)](https://github.com/jussepe06/toulouse-dev-ios)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=compiladores-lmd-scripts&theme=github_dark_dimmed)](https://github.com/jussepe06/compiladores-lmd-scripts)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=patterns-poo-implementations&theme=github_dark_dimmed)](https://github.com/jussepe06/patterns-poo-implementations)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=oracle-server-config&theme=github_dark_dimmed)](https://github.com/jussepe06/Tf-DEL-SO-GRUPO-6.git)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=toulouse-dev-ios&theme=github_dark_dimmed)](https://github.com/jussepe06/Lector-de-residuos.git)
 <br>
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
@@ -64,8 +61,3 @@
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
-
------
-Credits: [jussepe06](https://github.com/jussepe06)
-
-Last Edited on: 01/07/2026
