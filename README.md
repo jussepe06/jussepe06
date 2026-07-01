@@ -1,10 +1,10 @@
 <img align="right" src="https://count.getloli.com/get/@:jussepe06?theme=moebooru">
 
-## Programando para vivir o viviendo para programar — jussepe06 <[img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" ](https://www.rtve.es/noticias/20110927/experimento-con-monos-virtuales-consigue-reescribir-obras-completas-shakespeare/464511.shtml)/> 
+## Programando para vivir o viviendo para programar — jussepe06 <> 
 
 <p align="center">
   <a href="https://github.com/jussepe06">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hola%2C+soy+Josue+Gutierrez+desde+Lima%2C+Peru+%F0%9F%97%BB;Estudiante+de+Ingenieria+de+Sistemas+y+Computacion+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Investigando+Arquitectura+de+Software+y+Bases+de+Datos+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Miembro+de+la+Tuna+USIL+y+Entusiasta+Tech+%F0%9F%9A%80;Bienvenido+a+mi+Github+%F0%9F%8D%A8;">
+    <img src="https://www.redbubble.com/es/shop/pato+programador+stickers">
   </a>
 </p>
 
