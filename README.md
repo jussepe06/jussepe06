@@ -2,12 +2,12 @@
 
 
 
-## 一 Programando para vivir o vivir para programar — jussepe06 <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
+## 一Programando para vivir o vivir para programar—jussepe06<img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 </p>
 
 ### Sobre mí 👨‍💻
 
-<div><img align="right" alt="Gato programando" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
+<div><img align="right" alt="Gato programando" src="https://github.com/jussepe06/jussepe06/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
 - ¡Hola a todos! Mi nombre es Josué Gutiérrez, soy de Lima, Perú 🗻
 - Actualmente soy estudiante de pregrado en Ingeniería de Software en la USIL 👨‍🎓
