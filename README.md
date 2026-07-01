@@ -20,8 +20,8 @@
 
 
 ### Redes Sociales 💻
-- <a href="https://www.linkedin.com/in/josue-miguel-gutierrez-ojeda-4468921b4"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：Este es mi perfil de LinkedIn 🌐
-- <a href="https://instagram.com/josuem2106"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：Este es mi Instagram personal 📷
+- <a href="https://www.linkedin.com/in/josue-miguel-gutierrez-ojeda-4468921b4/"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：Este es mi perfil de LinkedIn 🌐
+- <a href="https://www.instagram.com/josuem2106/"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：Este es mi Instagram personal 📷
 
 ### Stack Tecnológico 🛠️
 ![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
