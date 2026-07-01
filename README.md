@@ -1,4 +1,7 @@
-<img align="right" src="https://count.getloli.com/get/@:jussepe06?theme=moebooru">
+<p align="right">
+  <img src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" width="40" alt="Gato">
+  <img src="https://custom-github-counter.vercel.app/api" alt="">
+</p>
 
 ## Programando para vivir o viviendo para programar — jussepe06 <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 
@@ -42,12 +45,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=000000 )
 
 
-### Proyectos Destacados <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=oracle-server-config&theme=github_dark_dimmed)](https://github.com/jussepe06/oracle-server-config)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=toulouse-dev-ios&theme=github_dark_dimmed)](https://github.com/jussepe06/toulouse-dev-ios)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=compiladores-lmd-scripts&theme=github_dark_dimmed)](https://github.com/jussepe06/compiladores-lmd-scripts)
-[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=patterns-poo-implementations&theme=github_dark_dimmed)](https://github.com/jussepe06/patterns-poo-implementations)
-<br>
+
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
 
