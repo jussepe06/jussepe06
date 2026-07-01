@@ -1,9 +1,8 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=jussepe06&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
+<img align="right" src="https://count.getloli.com/get/@:Aurorp1g?theme=moebooru">
 
-## Programando para vivir o viviendo para programar — jussepe06 <>
 
-<p align="center">
-  <img src="https://c.tenor.com/1FcdVfPZty0AAAAi/cat-butterfly.gif" width="150" alt="Gato atrapando mariposa" />
+
+## 一 Programando para vivir o vivir para programar — jussepe06 <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 </p>
 
 ### Sobre mí 👨‍💻
