@@ -1,52 +1,71 @@
-# <div align="center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img> !Bravo, <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
-</div>
+<img align="right" src="https://count.getloli.com/get/@:jussepe06?theme=moebooru">
 
-<div align="center">
-<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
-<img alt="Hola" align="center" height="50%" width="100%" src="https://see.fontimg.com/api/renderfont4/2O6xe/eyJyIjoiZnMiLCJoIjoyMywidyI6MTAwMCwiZnMiOjIzLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gSSdtIEpvc3VlIEd1dGllcnJleiB8fCBqdXNzZXBlMDY=/organical-personal-use-bold-italic.png"></img><br>
-<img height="80px" align="center" width="80" alt="Hola" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/au-kddi/190/flushed-face_1f633.png"></img>
-</div>
- <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hello%20I%27m%20%5BJosue%20Gutierrez%20%7C%7C%20jussepe06%5D;Software%20Engineering%20Student;Backend%20%26%26%20DB%20Admin;USIL%20Tuna%20Member;Java%20|%20C++%20|%20Oracle%2019c;&center=true&width=500&height=50">
-</p>
- 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
- <br>
-<div align="center">
-<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
-<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
-<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
-</div>
+## Un programador trabajando duro — jussepe06 <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
- <br>
-  
-
- <div align="center">
-<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
- <br>
+<p align="center">
+  <a href="https://github.com/jussepe06">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hola%2C+soy+Josue+Gutierrez+desde+Lima%2C+Peru+%F0%9F%97%BB;Estudiante+de+Ingenieria+de+Sistemas+y+Computacion+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Investigando+Arquitectura+de+Software+y+Bases+de+Datos+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Miembro+de+la+Tuna+USIL+y+Entusiasta+Tech+%F0%9F%9A%80;Bienvenido+a+mi+Github+%F0%9F%8D%A8;">
+  </a>
 </p>
 
-### Computer :> Programs && Tools
+### Sobre mí <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
-```mermaid
-flowchart TB
- A>"Computer"]  
- B[("Programs")] 
- C[("Tools")]
- A --> B
- A --> C
+- ¡Hola a todos! Soy Josué Gutiérrez, desde Lima, Perú 🗻
+- Actualmente soy estudiante de pregrado en Ingeniería de Sistemas y Computación en la USIL 👨‍🎓
+- Me enfoco en desarrollo backend, arquitectura de software y gestión de bases de datos 👨‍💻
+- Apasionado por la tecnología, los algoritmos y miembro orgulloso de la Tuna de la USIL 🚀
+- ¡Bienvenido a mi Github! 🍧
+
+
+### Redes Sociales 💻
+- <a href="https://www.linkedin.com/in/josue-miguel-gutierrez-ojeda-4468921b4"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：Este es mi perfil de LinkedIn 🌐
+- <a href="https://instagram.com/josuem2106"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/bilibili.ico"></a>：Este es mi Instagram personal 📷
+
+### Stack Tecnológico 🛠️
+![Java](https://img.shields.io/badge/-Java-%23972fcd?style=flat&logo=OPENJDK)
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=ffffff )
+![Python](https://img.shields.io/badge/-Python-%23fcc624?style=flat&logo=Python)
+![Oracle](https://img.shields.io/badge/-Oracle_19c-%23F00000?style=flat&logo=oracle&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=ffffff )
+![SQL](https://img.shields.io/badge/-SQL-%23003B57?style=flat&logo=postgresql&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css)
+![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat&logo=amazon-aws&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=Docker&logoColor=ffffff )
+![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-%2320232a?style=flat&logo=github )
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=vscode&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows_Server-%230078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=000000 )
+
+
+### Proyectos Destacados <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Software_Tools.gif" width="70" alt="Software_Tools"></picture>
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=oracle-server-config&theme=github_dark_dimmed)](https://github.com/jussepe06/oracle-server-config)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=toulouse-dev-ios&theme=github_dark_dimmed)](https://github.com/jussepe06/toulouse-dev-ios)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=compiladores-lmd-scripts&theme=github_dark_dimmed)](https://github.com/jussepe06/compiladores-lmd-scripts)
+[![](https://github-vercel-deployment-seven.vercel.app/api/pin/?username=jussepe06&repo=patterns-poo-implementations&theme=github_dark_dimmed)](https://github.com/jussepe06/patterns-poo-implementations)
+<br>
+
+<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
+
+### Lenguajes de Programación <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+<img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=jussepe06&show_icons=true&locale=es&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="jussepe06" width="350" height="250">
+
+### Estadísticas de Github <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+![jussepe06's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=jussepe06&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
+
+### Gráfico de Actividad <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+[![jussepe06's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jussepe06&theme=tokyo-night)](https://github.com/jussepe06/github-readme-activity-graph)
+
+#
+
+![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
+
+-----
+Credits: [jussepe06](https://github.com/jussepe06)
+
+Last Edited on: 01/07/2026
