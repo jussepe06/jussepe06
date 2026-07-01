@@ -1,22 +1,19 @@
-<img align="right" src="https://count.getloli.com/get/@:jussepe06?theme=moebooru">
+<img align="right" src="https://komarev.com/ghpvc/?username=jussepe06&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
 
-## Programando para vivir o viviendo para programar — jussepe06 <> 
+## Programando para vivir o viviendo para programar — jussepe06 <>
 
 <p align="center">
-  <a href="https://github.com/jussepe06">
-    <img src="https://www.redbubble.com/es/shop/pato+programador+stickers">
-  </a>
+  <img src="https://c.tenor.com/1FcdVfPZty0AAAAi/cat-butterfly.gif" width="150" alt="Gato atrapando mariposa" />
 </p>
 
-### Sobre mí <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
+### Sobre mí 👨‍💻
 
-<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
+<div><img align="right" alt="Gato programando" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
 - ¡Hola a todos! Mi nombre es Josué Gutiérrez, soy de Lima, Perú 🗻
 - Actualmente soy estudiante de pregrado en Ingeniería de Software en la USIL 👨‍🎓
 - Me enfoco en desarrollo backend, arquitectura de software y gestión de bases de datos 👨‍💻
-- Apasionado por la tecnología, los algoritmos y coordinador del grupo de investigación de ciencias de la computación de mi facultad y universidad🚀
-
+- Apasionado por la tecnología, los algoritmos y coordinador del grupo de investigación de ciencias de la computación de mi facultad y universidad 🚀
 
 ### Redes Sociales 💻
 - <a href="[https://www.linkedin.com/in/josue-miguel-gutierrez-ojeda-4468921b4](https://www.linkedin.com/in/josue-miguel-gutierrez-ojeda-4468921b4/)"><img height="22" width="22" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/favicon.ico"></a>：Este es mi perfil de LinkedIn 🌐
