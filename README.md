@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:jussepe06?theme=moebooru">
 
-## Un programador trabajando duro — jussepe06 <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
+## Programando para vivir o viviendo para programar — jussepe06 <img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 
 <p align="center">
   <a href="https://github.com/jussepe06">
@@ -12,10 +12,10 @@
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
-- ¡Hola a todos! Soy Josué Gutiérrez, desde Lima, Perú 🗻
-- Actualmente soy estudiante de pregrado en Ingeniería de Sistemas y Computación en la USIL 👨‍🎓
+- ¡Hola a todos! Mi nombre es Josué Gutiérrez, soy de Lima, Perú 🗻
+- Actualmente soy estudiante de pregrado en Ingeniería de Software en la USIL 👨‍🎓
 - Me enfoco en desarrollo backend, arquitectura de software y gestión de bases de datos 👨‍💻
-- Apasionado por la tecnología, los algoritmos y miembro orgulloso de la Tuna de la USIL 🚀
+- Apasionado por la tecnología, los algoritmos y coordinador del grupo de investigación de ciencias de la computación de mi facultad y universidad 🚀
 - ¡Bienvenido a mi Github! 🍧
 
 
